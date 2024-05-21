@@ -1,0 +1,27 @@
+Traceback (most recent call last):
+  File "/work/westgroup/nora/Code/projects/Burgess_Comments/2_BTP_optimization/flame_speeds/RMG_with_BROH_CHO2_removed/flame_speed_calc_range_10pts_parallel.py", line 29, in <module>
+    gas = ct.Solution(directory)
+  File "interfaces/cython/cantera/base.pyx", line 59, in cantera._cantera._SolutionBase.__cinit__
+  File "interfaces/cython/cantera/base.pyx", line 157, in cantera._cantera._SolutionBase._init_cti_xml
+cantera._cantera.CanteraError: 
+***********************************************************************
+CanteraError thrown by call_ctml_writer:
+Error converting input file "/work/westgroup/nora/Code/projects/Burgess_Comments/2_BTP_optimization/models/RMG_with_BROH_CHO2_removed/copies/" to CTML.
+Python command was: '/home/khalil.nor/.conda/envs/cantera_env/bin/python'
+The exit code was: 1
+-------------- start of converter log --------------
+Traceback (most recent call last):
+  File "/home/khalil.nor/.conda/envs/cantera_env/lib/python3.9/site-packages/cantera/ctml_writer.py", line 2745, in convert
+    with open(filename, open_mode, **open_kw) as f:
+IsADirectoryError: [Errno 21] Is a directory: '/work/westgroup/nora/Code/projects/Burgess_Comments/2_BTP_optimization/models/RMG_with_BROH_CHO2_removed/copies/'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<stdin>", line 9, in <module>
+  File "/home/khalil.nor/.conda/envs/cantera_env/lib/python3.9/site-packages/cantera/ctml_writer.py", line 2772, in convert
+    text = open(filename, open_mode).readlines()
+IsADirectoryError: [Errno 21] Is a directory: '/work/westgroup/nora/Code/projects/Burgess_Comments/2_BTP_optimization/models/RMG_with_BROH_CHO2_removed/copies/'
+--------------- end of converter log ---------------
+***********************************************************************
+

@@ -1,0 +1,1920 @@
+Running Cantera Version: 2.5.1
+****************************starting new volume fraction: 0.0**************************
+{'CH4(3)': 0.5, 'O2(4)': 1, 'N2': 3.76, '2-BTP(1)': 0.0}
+O2/CH4 ratio = 2.0. Complete combustion takes 2
+
+************ Solving on 8 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     2.136e-05      4.444
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0005474      3.079
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001169      4.153
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     1.463e-05      6.202
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     4.166e-05      6.004
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001602      4.525
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.02736      3.933
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [9] point grid(s).
+
+..............................................................................
+grid refinement disabled.
+
+******************** Solving with grid refinement enabled ********************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [9] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 0 1 2 3 4 5 
+    to resolve C2H2(24) C2H4(31) C2H5(33) C2H6(32) CH(7) CH2(S)(26) CH2(T)(19) CH2CO(29) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CO(16) CO2(17) H(9) H2(11) H2O(5) H2O2(15) HCCO(22) HCO(18) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(257) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      4.303
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     1.283e-05      6.513
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001461      4.996
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [15] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 4 5 6 7 8 
+    to resolve C(6) C2H2(24) C2H4(31) C2H5(33) C2H6(32) CH(7) CH2(S)(26) CH2(T)(19) CH2CO(29) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CO(16) CO2(17) H(9) H2(11) H2O(5) H2O2(15) HCCO(22) HCO(18) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(257) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      4.618
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     9.622e-06      6.752
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001644      4.913
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [20] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 6 7 8 9 10 
+    to resolve C(6) C2H(23) C2H2(24) C2H3(30) C2H4(31) C2H5(33) C2H6(32) CH(7) CH2(S)(26) CH2(T)(19) CH2CHO(36) CH2CO(29) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHO2(230) CO(16) CO2(17) H(9) H2(11) H2O(5) H2O2(15) HCCO(22) HCO(18) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(257) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      4.895
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     3.421e-05      5.711
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     9.742e-05      4.981
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [25] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 8 9 10 11 12 
+    to resolve C(6) C2H(23) C2H2(24) C2H3(30) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CH(7) CH2(S)(26) CH2(T)(19) CH2CHO(36) CH2CO(29) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHO2(230) CO(16) CO2(17) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HCCO(22) HCO(18) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(257) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      4.762
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [30] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 10 11 12 13 14 15 
+    to resolve C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CH(7) CH2(S)(26) CH2(T)(19) CH2CHO(36) CH2CO(29) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHO2(230) CO(16) CO2(17) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HCCO(22) HCO(18) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(257) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      4.792
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [36] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 12 13 14 15 16 17 18 
+    to resolve C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CH(7) CH2(S)(26) CH2(T)(19) CH2CHO(36) CH2CO(29) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHO2(230) CO(16) CO2(17) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HCCO(22) HCO(18) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(257) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [43] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 13 14 15 16 17 18 19 20 21 22 23 
+    to resolve C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CH(7) CH2(S)(26) CH2(T)(19) CH2CHO(36) CH2CO(29) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHO2(230) CO(16) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HCCO(22) HCO(18) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(257) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [54] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+    to resolve C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CH(7) CH2(S)(26) CH2(T)(19) CH2CHO(36) CH2CO(29) CH2OH(34) CH3(20) CH3CHO(37) CH3O(28) CH3O2(428) CH3OH(27) CHO2(230) H2CC(25) HCCO(22) HCO(18) HO2(14) O2(157) S(257) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [68] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 20 21 22 23 
+    to resolve CH3O(28) CH3O2(428) S(257) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [72] point grid(s).
+
+..............................................................................
+no new points needed in flame
+
+******************* Solving with user-specified tolerances *******************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [72] point grid(s).
+
+..............................................................................
+no new points needed in flame
+****************************starting new volume fraction: 0.018075555555555553**************************
+{'CH4(3)': 0.5, 'O2(4)': 1, 'N2': 3.76, '2-BTP(1)': 0.018075555555555553}
+O2/CH4 ratio = 2.0. Complete combustion takes 2
+
+************ Solving on 8 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     2.136e-05       4.31
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0005474      3.664
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.009352      3.027
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0002081      5.136
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     6.943e-06      6.895
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001186      5.478
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.00304      2.786
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.03463      2.959
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [9] point grid(s).
+
+..............................................................................
+grid refinement disabled.
+
+******************** Solving with grid refinement enabled ********************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [9] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 0 1 2 3 4 5 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H2(24) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(1508) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(17559) S(1783) S(1815) S(18378) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3687) S(3990) S(427) S(5257) S(6456) S(6705) S(774) S(814) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709        4.7
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.004379      3.418
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.003117      3.843
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.000117      5.301
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     1.041e-05      6.386
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001779      4.747
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [15] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 3 4 5 6 7 8 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(1508) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(1731) S(17512) S(17559) S(1783) S(1815) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6456) S(6705) S(774) S(814) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     8.543e-05      5.198
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.002189      3.757
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.0187      2.845
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001756      5.038
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     8.788e-06      6.606
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [21] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 6 7 8 9 10 11 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(1508) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(1731) S(17559) S(1783) S(1815) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(559) S(641) S(6456) S(6705) S(774) S(814) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     4.271e-05      5.555
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001095      3.987
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.02806      2.154
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [27] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 8 9 10 11 12 13 14 15 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(1508) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(1783) S(1815) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7931) S(8019) S(814) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     5.063e-05       6.13
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0002162      4.762
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [35] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 11 12 13 14 15 16 17 18 19 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(1508) S(15170) S(1528) S(1538) S(15712) S(161) S(162) S(1783) S(1815) S(1867) S(1890) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(559) S(6448) S(6456) S(6705) S(7931) S(8019) S(8869) S(961) S(985) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      4.838
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [44] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 16 17 18 19 20 21 22 23 24 25 26 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(14566) S(1508) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(17512) S(17559) S(1783) S(1815) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7931) S(8019) S(814) S(8869) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [55] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(144) S(14566) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(1731) S(17512) S(17559) S(1783) S(1815) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(641) S(6448) S(6456) S(6705) S(7931) S(8019) S(814) S(8869) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [71] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 
+    to resolve 2-BTP(1) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) CBr(425) CF2(44) CF2BR(96) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CHO(36) CH2CO(29) CH2F2(42) CH2OH(34) CH3(20) CH3CHO(37) CH3O(28) CH3O2(428) CH3OH(27) CHF2(83) CHF3(43) CHO2(230) FCBr(2959) H2CC(25) H2O2(15) HBR(93) HCCO(22) HCO(18) O2(157) S(11233) S(11379) S(125) S(127) S(1324) S(1329) S(1362) S(140) S(1528) S(15712) S(15826) S(161) S(162) S(17559) S(1783) S(1815) S(1867) S(1890) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3687) S(3990) S(3991) S(427) S(5257) S(6448) S(6456) S(6705) S(7931) S(8019) S(814) S(8869) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [91] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 30 31 32 33 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 
+    to resolve C2H3F2(66) CF3O2(820) CH3O(28) S(127) S(1329) S(1815) S(2432) S(257) S(273) S(2962) S(3687) S(3990) S(3991) S(427) S(5257) S(7931) S(8019) S(814) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [112] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 32 33 34 38 43 44 45 
+    to resolve S(1815) S(273) S(5257) S(7931) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [119] point grid(s).
+
+..............................................................................
+no new points needed in flame
+
+******************* Solving with user-specified tolerances *******************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [119] point grid(s).
+
+..............................................................................
+no new points needed in flame
+****************************starting new volume fraction: 0.036151111111111106**************************
+{'CH4(3)': 0.5, 'O2(4)': 1, 'N2': 3.76, '2-BTP(1)': 0.036151111111111106}
+O2/CH4 ratio = 2.0. Complete combustion takes 2
+
+************ Solving on 8 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     4.271e-05      4.177
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001095      3.632
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.01247      3.745
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.000117      5.398
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     2.343e-05      6.147
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0006006      4.233
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.01539      3.356
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.1753      2.795
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [9] point grid(s).
+
+..............................................................................
+grid refinement disabled.
+
+******************** Solving with grid refinement enabled ********************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [9] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 0 1 2 3 4 5 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H4(31) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(1508) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(172) S(1731) S(17559) S(1783) S(1815) S(18378) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6456) S(6705) S(7159) S(7174) S(774) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      4.656
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.004379      3.375
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.07482      2.526
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.2841     0.5914
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.00474      3.258
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [15] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 2 3 4 5 6 7 8 9 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(11595) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(172) S(1783) S(1815) S(18378) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6456) S(6705) S(7174) S(774) S(814) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     5.695e-05      5.375
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     3.041e-05      6.227
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      8.66e-05      5.222
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0009864      3.996
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.01685      2.824
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [23] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 5 6 7 8 9 10 11 12 13 14 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(1783) S(1815) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(7931) S(814) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     5.695e-05      5.692
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     1.711e-05      6.449
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     9.742e-05      5.299
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001665      3.919
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [33] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 10 11 12 13 14 15 16 17 18 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(1508) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(1783) S(1815) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(559) S(6448) S(6456) S(6705) S(7159) S(7174) S(7931) S(8019) S(814) S(8869) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     7.594e-05      5.629
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     8.109e-05      6.032
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0009237        3.9
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [42] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 15 16 17 18 19 20 21 22 23 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11405) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(1508) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(17512) S(17559) S(1783) S(1815) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(559) S(6448) S(6456) S(6705) S(7159) S(7174) S(7931) S(8019) S(814) S(8869) S(961) S(985) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0002563      4.508
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.009853      2.914
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [51] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 19 20 21 22 23 24 25 26 27 28 29 30 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(144) S(14566) S(1508) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(161) S(162) S(1731) S(17512) S(17559) S(1783) S(1815) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(559) S(641) S(6448) S(6456) S(6705) S(7931) S(8019) S(814) S(8869) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [63] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) OH(2) S(11233) S(11379) S(11554) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(1731) S(17512) S(17559) S(1783) S(1815) S(18378) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7931) S(8019) S(814) S(8869) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [82] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 
+    to resolve 2-BTP(1) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3O(28) CH3O2(428) CH3OH(27) CHF2(83) CHF3(43) FCBr(2959) H2CC(25) H2O2(15) HBR(93) HCCO(22) HCO(18) O2(157) S(11233) S(11379) S(11554) S(125) S(127) S(1324) S(1329) S(1362) S(140) S(14566) S(15165) S(15170) S(1528) S(15712) S(15826) S(161) S(17512) S(17559) S(1783) S(1815) S(1890) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7931) S(8019) S(814) S(961) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [104] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 37 38 39 40 43 44 45 46 47 49 50 51 52 53 54 55 56 57 58 59 60 61 
+    to resolve C2H3F2(66) CF3O2(820) S(127) S(1815) S(2432) S(273) S(2962) S(3687) S(3991) S(427) S(5257) S(7931) S(8019) S(814) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [126] point grid(s).
+
+..............................................................................
+no new points needed in flame
+
+******************* Solving with user-specified tolerances *******************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [126] point grid(s).
+
+..............................................................................
+no new points needed in flame
+****************************starting new volume fraction: 0.05422666666666666**************************
+{'CH4(3)': 0.5, 'O2(4)': 1, 'N2': 3.76, '2-BTP(1)': 0.05422666666666666}
+O2/CH4 ratio = 2.0. Complete combustion takes 2
+
+************ Solving on 8 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     4.271e-05      4.088
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001095       3.67
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.0187      2.811
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.02367      3.152
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.04494      2.279
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.1706       1.66
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps         1.944    -0.3015
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [9] point grid(s).
+Expanding domain to accommodate flame thickness. New width: 0.16 m
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 0 1 2 3 4 5 6 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H2(24) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(172) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(961) T velocity 
+##############################################################################
+
+*********** Solving on 16 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     4.271e-05      5.359
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     4.561e-05      5.664
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001169      3.946
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.00148      4.376
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     3.703e-05      5.881
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     5.273e-05        5.7
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001351      4.172
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.002565      3.802
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.002435      3.837
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001219      5.506
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     6.508e-05      5.623
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001668      3.533
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.0285      2.567
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [16] point grid(s).
+
+..............................................................................
+grid refinement disabled.
+
+******************** Solving with grid refinement enabled ********************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [16] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 3 4 5 6 7 8 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3F2(66) C2H4(31) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(1508) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(172) S(1731) S(17559) S(1783) S(1815) S(18378) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6456) S(6705) S(7159) S(7174) S(774) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      4.588
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.004379      3.385
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.04988      2.202
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps         1.278      2.819
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [22] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 5 6 7 8 9 10 11 12 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(11595) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(172) S(1783) S(1815) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7174) S(774) S(814) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     5.695e-05      5.554
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001216      5.295
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     3.247e-05      5.938
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0005548      4.533
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.00948       3.12
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [30] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 8 9 10 11 12 13 14 15 16 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(172) S(1783) S(1815) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(7931) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     4.271e-05      5.652
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0007298      4.486
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     2.435e-05      6.461
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0004161      4.266
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.01066      2.661
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [39] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 13 14 15 16 17 18 19 20 21 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(14566) S(1508) S(15165) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(17512) S(17559) S(1783) S(1815) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(559) S(6448) S(6456) S(6705) S(7159) S(7174) S(7931) S(8019) S(814) S(8869) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001139      5.451
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [48] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 17 18 19 20 21 22 23 24 25 26 27 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(130) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(1508) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(162) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(1815) S(18378) S(1867) S(1881) S(1890) S(18987) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(641) S(6448) S(6456) S(6705) S(7159) S(7174) S(7931) S(8019) S(814) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709        4.9
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [59] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 22 23 24 25 26 27 28 29 30 31 32 33 34 35 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(130) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(144) S(14566) S(1508) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(1815) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(641) S(6448) S(6456) S(6705) S(7159) S(7174) S(7931) S(8019) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [73] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(1731) S(17512) S(17559) S(1783) S(1815) S(18378) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(641) S(6448) S(6456) S(6705) S(7931) S(8019) S(814) S(961) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [94] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 
+    to resolve C#CC(8822) C(6) C2H(23) C2H3(30) C2H3F2(66) C2H5(33) C2H6(32) C3H3(6704) CF2BR(96) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3O2(428) CH3OH(27) CHF3(43) H2CC(25) HBR(93) HCO(18) S(11233) S(11554) S(125) S(127) S(1324) S(1329) S(1362) S(140) S(14122) S(14123) S(14566) S(15165) S(15170) S(15712) S(15826) S(161) S(17512) S(17559) S(1815) S(18378) S(1890) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7931) S(8019) S(814) S(961) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [120] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 42 43 44 45 49 50 51 52 53 54 58 59 60 61 62 67 68 69 70 71 
+    to resolve C2H3F2(66) CF3O2(820) S(15712) S(2432) S(273) S(2962) S(5257) S(7931) S(814) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [140] point grid(s).
+
+..............................................................................
+no new points needed in flame
+****************************starting new volume fraction: 0.07230222222222221**************************
+{'CH4(3)': 0.5, 'O2(4)': 1, 'N2': 3.76, '2-BTP(1)': 0.07230222222222221}
+O2/CH4 ratio = 2.0. Complete combustion takes 2
+
+************ Solving on 8 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     8.543e-05      4.041
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.002189      3.519
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.02494      2.766
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.02367      2.937
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.04494      2.974
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.5119      2.232
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps         13.12      1.792
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [9] point grid(s).
+Expanding domain to accommodate flame thickness. New width: 0.16 m
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 0 1 2 3 4 5 6 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H2(24) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(172) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+*********** Solving on 16 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     8.543e-05      5.366
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0003649      4.535
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.004157       3.86
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001233      5.555
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     8.778e-05      5.389
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.0015      4.167
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.005694      3.669
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0008008      4.443
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     4.008e-05      5.902
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001141      5.058
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.002925      3.378
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.04998      2.965
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [16] point grid(s).
+
+..............................................................................
+grid refinement disabled.
+
+******************** Solving with grid refinement enabled ********************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [16] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 3 4 5 6 7 8 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3F2(66) C2H4(31) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(1508) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(172) S(1731) S(17559) S(1783) S(1815) S(18378) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6456) S(6705) S(7159) S(7174) S(774) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      4.529
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.004379      3.407
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.04988      2.187
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.8522      2.349
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [22] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 5 6 7 8 9 10 11 12 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(11595) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(144) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(172) S(1783) S(1815) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     7.594e-05      5.417
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0006487      4.783
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      4.33e-05      5.856
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0007398      4.311
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.01264       2.98
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [30] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 9 10 11 12 13 14 15 16 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(172) S(17559) S(1783) S(1815) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(7931) S(814) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     7.594e-05      5.519
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001297      3.824
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [38] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 12 13 14 15 16 17 18 19 20 21 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(17512) S(17559) S(1783) S(1815) S(18378) S(1867) S(1881) S(1890) S(18987) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(7931) S(814) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001139      5.881
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001297      4.032
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001232      3.668
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [48] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 16 17 18 19 20 21 22 23 24 25 26 27 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O(28) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(130) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(1508) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(1815) S(18378) S(1867) S(1881) S(1890) S(18987) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(641) S(6448) S(6456) S(6705) S(6716) S(7159) S(7174) S(7931) S(8019) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0002563      4.134
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [60] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(130) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(1815) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(6716) S(774) S(7931) S(8019) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [77] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 
+    to resolve 2-BTP(1) BR(91) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CHF2(83) CHF3(43) CHO2(230) CO(16) FCBr(2959) H(9) H2(11) H2CC(25) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(14566) S(15165) S(15170) S(1528) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(1815) S(18378) S(1867) S(1890) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7931) S(8019) S(814) S(961) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [97] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 33 34 35 36 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 
+    to resolve C2H3(30) C2H3F2(66) CF2BR(96) CF3(46) CF3O2(820) CH2(T)(19) CH2CO(29) CH2OH(34) CH3(20) CH3CHO(37) CH3O2(428) CH3OH(27) HCO(18) S(11233) S(11554) S(127) S(1324) S(1362) S(140) S(14122) S(14566) S(15165) S(15615) S(15712) S(15826) S(15903) S(17512) S(17559) S(18378) S(1890) S(2432) S(2457) S(257) S(273) S(2962) S(3687) S(3990) S(3991) S(427) S(5257) S(6448) S(6456) S(7931) S(814) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [127] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 36 37 
+    to resolve S(273) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [129] point grid(s).
+
+..............................................................................
+no new points needed in flame
+****************************starting new volume fraction: 0.09037777777777777**************************
+{'CH4(3)': 0.5, 'O2(4)': 1, 'N2': 3.76, '2-BTP(1)': 0.09037777777777777}
+O2/CH4 ratio = 2.0. Complete combustion takes 2
+
+************ Solving on 8 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     8.543e-05      3.994
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.002189      3.565
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.02494      2.744
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.02367      2.471
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.08988       1.99
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.6826      1.111
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [9] point grid(s).
+Expanding domain to accommodate flame thickness. New width: 0.16 m
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 0 1 2 3 4 5 6 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(172) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+*********** Solving on 16 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     8.543e-05      5.264
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0002433      4.664
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.002771       3.65
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     7.306e-05      5.466
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0002081      4.727
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.00237      4.063
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.003999      3.653
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0008436      4.711
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     7.507e-05      5.518
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001924      3.381
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.03287      2.592
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [16] point grid(s).
+
+..............................................................................
+grid refinement disabled.
+
+******************** Solving with grid refinement enabled ********************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [16] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 3 4 5 6 7 8 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(1508) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(172) S(1731) S(17559) S(1783) S(1815) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6456) S(6705) S(774) S(814) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      4.493
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.004379      3.387
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.07482      3.014
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.6392      3.276
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [22] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 5 6 7 8 9 10 11 12 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(11595) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(172) S(1783) S(1815) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     5.695e-05      6.076
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0006487      4.551
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001155      6.032
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001973      3.596
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.05056       2.07
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [30] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 9 10 11 12 13 14 15 16 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(172) S(17512) S(17559) S(1783) S(1815) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(7931) S(814) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0002563      5.065
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.00146      3.637
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [38] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 11 12 13 14 15 16 17 18 19 20 21 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(1815) S(18378) S(1867) S(1881) S(1890) S(18987) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(6716) S(7159) S(7174) S(7931) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      5.256
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.002919      3.841
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.03325      2.151
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [49] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 17 18 19 20 21 22 23 24 25 26 27 28 29 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(1815) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(6716) S(774) S(7931) S(8019) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0002563       3.95
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [62] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7931) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [78] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 
+    to resolve C2H(23) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2BR(96) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3O2(428) CH3OH(27) CHF2(83) CHF3(43) H2(11) H2CC(25) H2O2(15) HBR(93) HCCO(22) HCO(18) HO2(14) O(10) O2(157) S(11233) S(11379) S(11554) S(125) S(127) S(1324) S(1362) S(140) S(14122) S(14123) S(14349) S(14566) S(15165) S(15170) S(1528) S(15615) S(15712) S(15826) S(15903) S(161) S(172) S(1731) S(17512) S(17559) S(1783) S(18378) S(1890) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7931) S(814) S(961) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [103] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 30 31 37 38 39 40 41 44 45 46 47 48 49 50 51 52 53 54 55 56 57 
+    to resolve C2H3F2(66) CF3O2(820) S(14122) S(14566) S(15165) S(15615) S(15712) S(1890) S(2432) S(273) S(2962) S(3687) S(3991) S(427) S(5257) S(7931) S(814) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [124] point grid(s).
+
+..............................................................................
+no new points needed in flame
+****************************starting new volume fraction: 0.10845333333333332**************************
+{'CH4(3)': 0.5, 'O2(4)': 1, 'N2': 3.76, '2-BTP(1)': 0.10845333333333332}
+O2/CH4 ratio = 2.0. Complete combustion takes 2
+
+************ Solving on 8 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      3.876
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.004379      3.257
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.04988      2.652
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.04209      2.513
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.3196      1.322
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [9] point grid(s).
+Expanding domain to accommodate flame thickness. New width: 0.16 m
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 0 1 2 3 4 5 6 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(172) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(814) S(961) T velocity 
+##############################################################################
+
+*********** Solving on 16 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001139      5.271
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0003244      4.199
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.003695      3.711
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001948      5.587
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.00111      4.087
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.003745      3.711
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.00711      3.734
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001055      6.036
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.002703        3.3
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.06926      2.636
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps         0.263     0.4115
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [16] point grid(s).
+
+..............................................................................
+grid refinement disabled.
+
+******************** Solving with grid refinement enabled ********************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [16] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 3 4 5 6 7 8 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(172) S(1731) S(1783) S(1815) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6456) S(6705) S(774) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      4.495
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.002919      3.396
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.04988      2.262
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.8522      2.531
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [22] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 5 6 7 8 9 10 11 12 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11379) S(11554) S(11593) S(11595) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(172) S(17559) S(1783) S(1815) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      5.839
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001297      4.096
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001232      3.911
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001169       4.01
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.02996      2.301
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [30] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 9 10 11 12 13 14 15 16 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(161) S(172) S(1731) S(17512) S(17559) S(1783) S(1815) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(7931) S(814) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0002563      4.335
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.006568      3.641
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.1122      3.776
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [38] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 12 13 14 15 16 17 18 19 20 21 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(1815) S(18378) S(1867) S(1881) S(1890) S(18987) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(6716) S(774) S(7931) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0002563      3.958
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [48] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(774) S(7931) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0003844      3.819
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [63] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(774) S(7931) S(814) S(961) S(965) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [82] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 
+    to resolve C2H(23) C2H3(30) C2H3F2(66) C2H5(33) C2H6(32) C3H3(6704) CF2BR(96) CF3(46) CF3O2(820) CH2(T)(19) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3O2(428) CH3OH(27) CHF3(43) HCCO(22) HCO(18) HO2(14) S(11233) S(11554) S(127) S(1324) S(1362) S(140) S(14122) S(14123) S(14349) S(14566) S(15165) S(15615) S(15712) S(15826) S(15903) S(161) S(172) S(17512) S(17559) S(18378) S(1890) S(2074) S(2432) S(2457) S(273) S(2962) S(3687) S(3990) S(3991) S(427) S(5257) S(6448) S(6456) S(6705) S(7931) S(814) S(961) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [112] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 29 30 
+    to resolve S(273) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [114] point grid(s).
+
+..............................................................................
+no new points needed in flame
+****************************starting new volume fraction: 0.12652888888888886**************************
+{'CH4(3)': 0.5, 'O2(4)': 1, 'N2': 3.76, '2-BTP(1)': 0.12652888888888886}
+O2/CH4 ratio = 2.0. Complete combustion takes 2
+
+************ Solving on 8 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      3.906
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.004379      3.348
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.04988      2.642
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.03156      2.243
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.2397      1.636
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [9] point grid(s).
+Expanding domain to accommodate flame thickness. New width: 0.16 m
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 0 1 2 3 4 5 6 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(172) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(814) S(961) T velocity 
+##############################################################################
+
+*********** Solving on 16 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      5.169
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001946      3.954
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.003284        4.1
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0005196       4.69
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.002959      3.878
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.00749      3.294
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.00237      3.906
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.008998      2.956
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.1025      2.308
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [16] point grid(s).
+
+..............................................................................
+grid refinement disabled.
+
+******************** Solving with grid refinement enabled ********************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [16] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 3 4 5 6 7 8 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(172) S(1731) S(1783) S(1815) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6456) S(6705) S(774) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      4.514
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.004379      3.292
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.04988      2.133
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [22] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 5 6 7 8 9 10 11 12 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(11595) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(172) S(17559) S(1783) S(1815) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(814) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0002563      5.109
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001946      3.824
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.04988      2.407
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps         1.278      1.676
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [30] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 8 9 10 11 12 13 14 15 16 17 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C(6) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(11595) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(1815) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      5.017
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001946      3.739
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [40] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 12 13 14 15 16 17 18 19 20 21 22 23 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CHO2(230) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(7931) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0002563      4.682
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [52] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14522) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(774) S(7931) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0003844      3.838
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [69] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 21 22 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3O2(428) CH3OH(27) CHF2(83) CHF3(43) FCBr(2959) H(9) H2CC(25) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) O(10) O2(157) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(172) S(1731) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(774) S(7931) S(814) S(961) S(965) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [92] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 31 32 33 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 61 62 63 
+    to resolve C2H3(30) C2H3F2(66) CF3O2(820) CH2O(21) CH3(20) CH3CHO(37) CH3O2(428) CH3OH(27) HO2(14) S(11233) S(11554) S(127) S(1324) S(14122) S(14123) S(14349) S(14566) S(15165) S(15615) S(15712) S(15826) S(15903) S(172) S(17512) S(17559) S(18378) S(1890) S(2432) S(2457) S(273) S(2962) S(3687) S(3990) S(3991) S(427) S(5257) S(6448) S(6456) S(814) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [119] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 37 
+    to resolve S(273) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [120] point grid(s).
+
+..............................................................................
+no new points needed in flame
+****************************starting new volume fraction: 0.14460444444444442**************************
+{'CH4(3)': 0.5, 'O2(4)': 1, 'N2': 3.76, '2-BTP(1)': 0.14460444444444442}
+O2/CH4 ratio = 2.0. Complete combustion takes 2
+
+************ Solving on 8 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      3.913
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.004379      3.452
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.04988      2.615
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.06313       2.44
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.3595      1.926
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps         9.214     0.8674
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [9] point grid(s).
+Expanding domain to accommodate flame thickness. New width: 0.16 m
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 0 1 2 3 4 5 6 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(172) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(7931) S(814) S(961) T velocity 
+##############################################################################
+
+*********** Solving on 16 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      5.078
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001297      3.949
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.004379      3.939
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0009237      4.204
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.007014      3.477
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.01184      2.913
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001248       4.56
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.00316      2.985
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.05399      2.533
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [16] point grid(s).
+
+..............................................................................
+grid refinement disabled.
+
+******************** Solving with grid refinement enabled ********************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [16] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 3 4 5 6 7 8 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(164) S(172) S(1731) S(1783) S(1815) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6456) S(6705) S(774) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      4.532
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.004379      3.306
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.07482      2.079
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [22] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 5 6 7 8 9 10 11 12 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11536) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(161) S(172) S(1731) S(17559) S(1783) S(1815) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(814) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0002563      4.657
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001946      3.962
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.04988       2.18
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps         1.278      2.675
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [30] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 8 9 10 11 12 13 14 15 16 17 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(11595) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(1815) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(6716) S(7159) S(7174) S(774) S(787) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0002563      4.945
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.002919      3.309
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.02217      3.476
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [40] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 12 13 14 15 16 17 18 19 20 21 22 23 24 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14522) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(6716) S(7159) S(7174) S(774) S(787) S(7931) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [53] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO2(17) F(38) FCBr(2959) H(9) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(774) S(787) S(7931) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0003844       3.68
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [73] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+    to resolve BR(91) BROH(8) C2H(23) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF3(46) CF3CCH(85) CF3O2(820) CH2(T)(19) CH2Br(969) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3O2(428) CH3OH(27) CHF2(83) CHF3(43) H(9) H2CC(25) H2O2(15) HBR(93) HCCO(22) HCO(18) HO2(14) O(10) O2(157) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(1362) S(140) S(14122) S(14123) S(14349) S(14566) S(15165) S(15170) S(1528) S(15615) S(15712) S(15826) S(15903) S(161) S(172) S(17512) S(17559) S(1783) S(18378) S(1890) S(20107) S(2074) S(2432) S(2457) S(273) S(2962) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(774) S(814) S(961) S(965) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [98] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 30 31 38 39 40 41 44 45 46 47 48 49 50 51 52 53 54 55 56 57 
+    to resolve CF3O2(820) HO2(14) S(11554) S(1324) S(14122) S(14123) S(14349) S(14566) S(15165) S(15712) S(15826) S(15903) S(17559) S(18378) S(1890) S(273) S(3687) S(3990) S(3991) S(427) S(5257) S(814) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [118] point grid(s).
+
+..............................................................................
+no new points needed in flame
+****************************starting new volume fraction: 0.16268**************************
+{'CH4(3)': 0.5, 'O2(4)': 1, 'N2': 3.76, '2-BTP(1)': 0.16268}
+O2/CH4 ratio = 2.0. Complete combustion takes 2
+
+************ Solving on 8 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      3.853
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.004379      3.481
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.04988        2.6
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps        0.1122      2.395
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps         1.278      1.729
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [9] point grid(s).
+Expanding domain to accommodate flame thickness. New width: 0.16 m
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 0 1 2 3 4 5 6 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(172) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(7931) S(814) S(961) T velocity 
+##############################################################################
+
+*********** Solving on 16 point grid with energy equation enabled ************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      4.987
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001297      3.917
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.003284      3.918
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.001847      3.972
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.006235      3.727
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.02367      2.416
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.00749      3.546
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.00316      2.858
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.05399      2.484
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps          0.41      -0.25
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [16] point grid(s).
+
+..............................................................................
+grid refinement disabled.
+
+******************** Solving with grid refinement enabled ********************
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [16] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 3 4 5 6 7 8 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O(49) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14123) S(144) S(15170) S(1528) S(1538) S(15712) S(15826) S(161) S(162) S(164) S(172) S(1731) S(1783) S(1815) S(1867) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6456) S(6705) S(774) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0001709      4.538
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.004379      3.286
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.04988      2.054
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [22] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 5 6 7 8 9 10 11 12 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11536) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(161) S(172) S(1731) S(17512) S(17559) S(1783) S(1815) S(18378) S(1867) S(1881) S(1890) S(18987) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(7159) S(7174) S(774) S(814) S(961) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0002563      4.278
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.00146      4.406
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps       0.03741      3.002
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [30] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 8 9 10 11 12 13 14 15 16 17 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH(7) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2(11) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(11595) S(125) S(127) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(164) S(172) S(1731) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(6716) S(7159) S(7174) S(774) S(787) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0002563      4.325
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps      0.004379      3.104
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [40] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF2O(50) CF3(46) CF3CCH(85) CF3O2(820) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CHO(36) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO(16) CO2(17) F(38) FCBr(2959) H(9) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14522) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(172) S(1731) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(4185) S(427) S(5257) S(6448) S(6456) S(6705) S(6716) S(7159) S(7174) S(774) S(787) S(7931) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0003844      4.059
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [54] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 
+    to resolve 2-BTP(1) BR(91) BROH(8) C#CC(8822) C2H(23) C2H2(24) C2H3(30) C2H3F2(66) C2H4(31) C2H5(33) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF3(46) CF3CCH(85) CF3O2(820) CH2(S)(26) CH2(T)(19) CH2Br(969) CH2CF2(58) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3F(40) CH3O2(428) CH3OH(27) CH4(3) CHF2(83) CHF3(43) CO2(17) FCBr(2959) H(9) H2CC(25) H2O(5) H2O2(15) HBR(93) HCCO(22) HCO(18) HF(39) HO2(14) N2 O(10) O2(157) O2(4) OH(2) S(11233) S(11379) S(11554) S(11593) S(125) S(127) S(129) S(1324) S(1329) S(13373) S(1362) S(140) S(14122) S(14123) S(14349) S(144) S(14522) S(14566) S(15165) S(15170) S(1528) S(1538) S(15615) S(15712) S(15826) S(15903) S(161) S(172) S(1731) S(17512) S(17559) S(1783) S(18378) S(1867) S(1881) S(1890) S(20107) S(2074) S(2432) S(2457) S(257) S(273) S(2962) S(2970) S(3216) S(3687) S(3990) S(3991) S(4154) S(427) S(5257) S(6448) S(6456) S(6705) S(774) S(787) S(814) S(961) S(965) T velocity 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    failure. 
+Take 10 timesteps     0.0005767      3.799
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [76] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 
+    to resolve C2H(23) C2H3(30) C2H3F2(66) C2H6(32) C3H3(6704) CBr(425) CF2(44) CF2BR(96) CF3(46) CF3CCH(85) CF3O2(820) CH2(T)(19) CH2Br(969) CH2CO(29) CH2F2(42) CH2O(21) CH2OH(34) CH3(20) CH3CHO(37) CH3O2(428) CH3OH(27) CHF2(83) CHF3(43) H(9) H2O2(15) HCCO(22) HO2(14) O(10) O2(157) OH(2) S(11233) S(11379) S(11554) S(125) S(127) S(1324) S(1362) S(140) S(14122) S(14123) S(14349) S(14566) S(15165) S(15170) S(1528) S(15615) S(15712) S(15826) S(15903) S(161) S(172) S(17512) S(17559) S(1783) S(18378) S(1890) S(2074) S(2432) S(2457) S(273) S(2962) S(3687) S(3990) S(3991) S(427) S(5257) S(6448) S(6456) S(6705) S(774) S(814) S(961) S(965) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [103] point grid(s).
+
+..............................................................................
+##############################################################################
+Refining grid in flame.
+    New points inserted after grid points 31 32 41 42 48 49 55 56 57 58 59 60 
+    to resolve CF3O2(820) S(11554) S(14122) S(14123) S(14566) S(15165) S(273) S(3991) S(5257) 
+##############################################################################
+
+..............................................................................
+Attempt Newton solution of steady-state problem...    success.
+
+Problem solved on [115] point grid(s).
+
+..............................................................................
+no new points needed in flame
+volume fractions of BTP are:
+[0.0, 0.0034246488829682868, 0.006825921381900819, 0.01020405603073009, 0.01355928812903828, 0.016891849796691408, 0.02020197002736977, 0.023489874741020596, 0.02675578683525816, 0.029999926235735837]
+flame speeds are:
+[0.3683150441750122, 0.3000734496506694, 0.24783376459360865, 0.19226095385280417, 0.138650072025504, 0.09566136408734081, 0.07144623449845386, 0.05606473498957545, 0.0460113706427586, 0.039100079742828024]
