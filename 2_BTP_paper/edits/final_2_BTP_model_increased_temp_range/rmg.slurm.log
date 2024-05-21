@@ -1,0 +1,4 @@
+[14:41:30] Explicit valence for atom # 14 C greater than permitted
+[14:41:30] Explicit valence for atom # 14 C greater than permitted
+[14:41:30] Explicit valence for atom # 14 C greater than permitted
+slurmstepd: error: *** JOB 42055005 ON c3040 CANCELLED AT 2024-05-18T13:49:04 DUE TO TIME LIMIT ***

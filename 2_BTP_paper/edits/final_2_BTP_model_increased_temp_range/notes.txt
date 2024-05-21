@@ -1,0 +1,19 @@
+make sure after generation that you change the following reactions to have the following kinetics: 
+
+
+#  Library reaction: Unclassified
+# Reaction 624
+three_body_reaction('CHF3(43) + M <=> CF2(44) + HF(39) + M', [3.410000e+30, -4.0, 69.05],
+                    efficiencies='C2H6(32):3.0 CH2F2(42):6.0 CH3F(40):6.0 CH4(3):2.0 CHF3(43):6.0 CO(16):1.5 CO2(17):2.0 H2(11):2.0 H2O(5):9.0 HF(39):2.0')
+                    
+                    
+#  Reaction index: Chemkin #1233; RMG #1588
+#  Library reaction: Unclassified
+# Reaction 1233
+reaction('CF3CCH(85) + CH3(20) <=> CF3(46) + C#CC(8822)', [2.000000e+14, 0.0, 9.56])
+
+
+#  Reaction index: Chemkin #561; RMG #1482
+#  Library reaction: Unclassified
+# Reaction 561
+reaction('CBr(425) <=> BR(91) + CH3(20)', [1.580000e+13, 0.0, 71.7])

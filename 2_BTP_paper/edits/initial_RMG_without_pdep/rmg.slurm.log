@@ -1,0 +1,9 @@
+[06:11:14] Explicit valence for atom # 9 C greater than permitted
+[06:11:14] Explicit valence for atom # 9 C greater than permitted
+[06:11:29] Explicit valence for atom # 9 C greater than permitted
+[06:11:29] Explicit valence for atom # 9 C greater than permitted
+[06:11:29] Explicit valence for atom # 9 C greater than permitted
+[06:11:30] Explicit valence for atom # 9 C greater than permitted
+[06:11:30] Explicit valence for atom # 9 C greater than permitted
+[06:11:30] Explicit valence for atom # 9 C greater than permitted
+slurmstepd: error: *** JOB 42054667 ON c3040 CANCELLED AT 2024-05-18T13:32:03 DUE TO TIME LIMIT ***
